@@ -1,5 +1,5 @@
 # HKR_Dataset
-The SCUT-HCCDoc Dataset for Russian and Kazakh database (with about 95% of Russian and 5% of
+The HKR Dataset for Russian and Kazakh database (with about 95% of Russian and 5% of
 Kazakh words/sentences respectively) for offline handwriting recognition.
 The dataset can be downloaded through the following link:
 
