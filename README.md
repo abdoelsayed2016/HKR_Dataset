@@ -3,7 +3,7 @@ The HKR Dataset for Russian and Kazakh database (with about 95% of Russian and 5
 Kazakh words/sentences respectively) for offline handwriting recognition.
 The dataset can be downloaded through the following link:
 
-- [Cloud](#)  
+- [Cloud](https://cloud.mail.ru/public/25xw/2YPdtaFAF)  
 
 Note: The HKR Dataset can only be used for non-commercial research purpose. 
 For researchers who wants to use the HKR database, please first fill
