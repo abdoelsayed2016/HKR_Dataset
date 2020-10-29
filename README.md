@@ -26,6 +26,7 @@ The following are some sample of forms from HKR dataset:
 The following are some word images after segmented the forms:
 
 
+
 ![](images/0_9_16.jpg)
 ![word1](images/0_9_623.jpg)
 ![word2](images/0_10_23.jpg)
