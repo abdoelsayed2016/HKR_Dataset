@@ -50,8 +50,12 @@ Please consider to cite our paper when you use our dataset:
 }
 ```
 ```
-Abdallah, A.; Hamada, M.; Nurseitov, D. Attention-Based Fully Gated CNN-BGRU for Russian Handwritten Text. J. Imaging 2020, 6, 141.
-
+@article{abdallah2020attention,
+  title={Attention-based Fully Gated CNN-BGRU for Russian Handwritten Text},
+  author={Abdallah, Abdelrahman and Hamada, Mohamed and Nurseitov, Daniyar},
+  journal={J. Imaging 2020, 6, 141},
+  year={2020}
+}
 ```
 
 For any quetions about the dataset please contact the authors by sending email to Prof. Daniyar Nurseitov
