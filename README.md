@@ -57,6 +57,20 @@ Please consider to cite our paper when you use our dataset:
   year={2020}
 }
 ```
+```
+@article{DaniyarNurseitovKairatBostanbekovMaksatKanatovAnelAlimovaAbdelrahmanAbdallah2020,
+author = {{Daniyar Nurseitov, Kairat Bostanbekov, Maksat Kanatov, Anel Alimova, Abdelrahman Abdallah}, Galymzhan Abdimanap},
+doi = {10.25046/aj0505114},
+file = {:D$\backslash$:/ASTESJ/ASTESJ{\_}0505114.pdf:pdf},
+journal = {Advances in Science, Technology and Engineering Systems Journal},
+keywords = {CNN,CTC,Convolutional neural networks,RNN,Recurrent neural networks},
+number = {5},
+pages = {934--943},
+title = {{Classification of Handwritten Names of Cities and Handwritten Text Recognition using Various Deep Learning Models}},
+volume = {5},
+year = {2020}
+}
+```
 
 For any quetions about the dataset please contact the authors by sending email to Prof. Daniyar Nurseitov
 ([nurseitovdb@gmail.com](mailto:nurseitovdb@gmail.com)), Dr. Kairat Bostanbekov
