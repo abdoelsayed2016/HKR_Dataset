@@ -39,6 +39,12 @@ For example, the following image shows the number of character in the HKR datase
 
 ![distribution](images/sample2.png)
 
+## Split Dataset
+
+Divides the handwriting text dataset into Training, Validation, Test 1, and Test 2 folders. Test1 is a subset of unseen words, Test2 is a subset of words seen, but by other writers.
+you can use the following python code to split as we discussed before
+https://github.com/bosskairat/Dataset
+
 ## Citation and Contact
 Please consider to cite our paper when you use our dataset:
 ```
