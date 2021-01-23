@@ -26,14 +26,12 @@ The following are some sample of forms from HKR dataset:
 
 The following are some word images after segmented the forms:
 
-![](images/0_9_16.jpg)
-![word1](images/0_9_623.jpg)
-![word2](images/0_10_23.jpg)
-![word3](images/0_10_30.jpg)
-![word4](images/0_10_615_.jpg)
-![word5](images/0_11_55.jpg)
-![word6](images/0_13_55.jpg)
-![word7](images/0_13_614.jpg)
+<img src="images/0_9_623.jpg" width="50%" height="50%">
+<img src="images/0_9_16.jpg" width="50%" height="50%">
+<img src="images/0_10_23.jpg" width="50%" height="50%">
+<img src="images/0_10_615_.jpg" width="50%" height="50%">
+<img src="images/0_11_55.jpg" width="50%" height="50%">
+
 
 
 For example, the following image shows the number of character in the HKR dataset.
