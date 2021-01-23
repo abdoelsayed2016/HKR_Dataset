@@ -57,31 +57,32 @@ Please consider to cite our paper when you use our dataset:
 ```
 ```
 @article{Abdallah_2020, 
-title={Attention-Based Fully Gated CNN-BGRU for Russian Handwritten Text}, 
-volume={6}, 
-ISSN={2313-433X}, 
-url={http://dx.doi.org/10.3390/jimaging6120141}, 
-DOI={10.3390/jimaging6120141},
-number={12}, 
-journal={Journal of Imaging}, 
-publisher={MDPI AG}, 
-author={Abdallah, Abdelrahman and Hamada, Mohamed and Nurseitov, Daniyar},
-year={2020}, 
-month={Dec},
-pages={141}}
+  title={Attention-Based Fully Gated CNN-BGRU for Russian Handwritten Text}, 
+  volume={6}, 
+  ISSN={2313-433X}, 
+  url={http://dx.doi.org/10.3390/jimaging6120141}, 
+  DOI={10.3390/jimaging6120141},
+  number={12}, 
+  journal={Journal of Imaging}, 
+  publisher={MDPI AG}, 
+  author={Abdallah, Abdelrahman and Hamada, Mohamed and Nurseitov, Daniyar},
+  year={2020}, 
+  month={Dec},
+  pages={141}
+}
 ```
 ```
 @article{DaniyarNurseitovKairatBostanbekovMaksatKanatovAnelAlimovaAbdelrahmanAbdallah2020,
-author = {{Daniyar Nurseitov, Kairat Bostanbekov, Maksat Kanatov, Anel Alimova, Abdelrahman Abdallah}, Galymzhan Abdimanap},
-doi = {10.25046/aj0505114},
-file = {:D$\backslash$:/ASTESJ/ASTESJ{\_}0505114.pdf:pdf},
-journal = {Advances in Science, Technology and Engineering Systems Journal},
-keywords = {CNN,CTC,Convolutional neural networks,RNN,Recurrent neural networks},
-number = {5},
-pages = {934--943},
-title = {{Classification of Handwritten Names of Cities and Handwritten Text Recognition using Various Deep Learning Models}},
-volume = {5},
-year = {2020}
+  author = {{Daniyar Nurseitov, Kairat Bostanbekov, Maksat Kanatov, Anel Alimova, Abdelrahman Abdallah}, Galymzhan Abdimanap},
+  doi = {10.25046/aj0505114},
+  file = {:D$\backslash$:/ASTESJ/ASTESJ{\_}0505114.pdf:pdf},
+  journal = {Advances in Science, Technology and Engineering Systems Journal},
+  keywords = {CNN,CTC,Convolutional neural networks,RNN,Recurrent neural networks},
+  number = {5},
+  pages = {934--943},
+  title = {{Classification of Handwritten Names of Cities and Handwritten Text Recognition using Various Deep Learning Models}},
+  volume = {5},
+  year = {2020}
 }
 ```
 
