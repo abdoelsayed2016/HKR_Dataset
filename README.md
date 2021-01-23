@@ -21,23 +21,25 @@ We utilized three different datasets described as following:
 
 The following are some sample of forms from HKR dataset:
 
-![sample of form](images/sample1.png){:height="50%" width="50%"}
+<img src="images/sample1.png" width="500px" height="500px">
+
 
 The following are some word images after segmented the forms:
 
-![](images/0_9_16.jpg){:height="50%" width="50%"}
-![word1](images/0_9_623.jpg){:height="50%" width="50%"}
-![word2](images/0_10_23.jpg){:height="50%" width="50%"}
-![word3](images/0_10_30.jpg){:height="50%" width="50%"}
-![word4](images/0_10_615_.jpg){:height="50%" width="50%"}
-![word5](images/0_11_55.jpg){:height="50%" width="50%"}
-![word6](images/0_13_55.jpg){:height="50%" width="50%"}
-![word7](images/0_13_614.jpg){:height="50%" width="50%"}
+![](images/0_9_16.jpg)
+![word1](images/0_9_623.jpg)
+![word2](images/0_10_23.jpg)
+![word3](images/0_10_30.jpg)
+![word4](images/0_10_615_.jpg)
+![word5](images/0_11_55.jpg)
+![word6](images/0_13_55.jpg)
+![word7](images/0_13_614.jpg)
 
 
 For example, the following image shows the number of character in the HKR dataset.
 
-![distribution](images/sample2.png){:height="50%" width="50%"}
+<img src="images/sample2.png" width="50%" height="50%">
+
 
 ## Split Dataset
 
