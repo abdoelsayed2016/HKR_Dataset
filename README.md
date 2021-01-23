@@ -56,7 +56,19 @@ Please consider to cite our paper when you use our dataset:
 }
 ```
 ```
-@article{Abdallah_2020, title={Attention-Based Fully Gated CNN-BGRU for Russian Handwritten Text}, volume={6}, ISSN={2313-433X}, url={http://dx.doi.org/10.3390/jimaging6120141}, DOI={10.3390/jimaging6120141}, number={12}, journal={Journal of Imaging}, publisher={MDPI AG}, author={Abdallah, Abdelrahman and Hamada, Mohamed and Nurseitov, Daniyar}, year={2020}, month={Dec}, pages={141}}
+@article{Abdallah_2020, 
+title={Attention-Based Fully Gated CNN-BGRU for Russian Handwritten Text}, 
+volume={6}, 
+ISSN={2313-433X}, 
+url={http://dx.doi.org/10.3390/jimaging6120141}, 
+DOI={10.3390/jimaging6120141},
+number={12}, 
+journal={Journal of Imaging}, 
+publisher={MDPI AG}, 
+author={Abdallah, Abdelrahman and Hamada, Mohamed and Nurseitov, Daniyar},
+year={2020}, 
+month={Dec},
+pages={141}}
 ```
 ```
 @article{DaniyarNurseitovKairatBostanbekovMaksatKanatovAnelAlimovaAbdelrahmanAbdallah2020,
