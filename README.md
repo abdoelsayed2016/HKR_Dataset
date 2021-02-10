@@ -46,7 +46,7 @@ you can use the following python code to split as we discussed before
 https://github.com/bosskairat/Dataset
 
 ## Citation and Contact
-Please consider to cite our paper when you use our dataset:
+Please consider to cite our papers when you use our dataset:
 ```
 @article{nurseitov2020hkr,
   title={Hkr for handwritten kazakh \& russian database},
