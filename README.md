@@ -1,4 +1,5 @@
-# HKR For Handwritten Kazakh & Russian Database
+# Handwritten Kazakh and Russian (HKR) database for text recognition
+
 The HKR Dataset for Russian and Kazakh database (with about 95% of Russian and 5% of
 Kazakh words/sentences respectively) for offline handwriting recognition.
 The dataset can be downloaded through the following link:
@@ -48,12 +49,9 @@ https://github.com/bosskairat/Dataset
 ## Citation and Contact
 Please consider to cite our papers when you use our dataset:
 ```
-@article{nurseitov2020hkr,
-  title={Hkr for handwritten kazakh \& russian database},
-  author={Nurseitov, Daniyar and Bostanbekov, Kairat and Kurmankhojayev, Daniyar and Alimova, Anel and Abdallah, Abdelrahman},
-  journal={arXiv preprint arXiv:2007.03579},
-  year={2020}
-}
+Nurseitov, D., Bostanbekov, K., Kurmankhojayev, D. et al. Handwritten Kazakh and Russian (HKR) database for text recognition. Multimed Tools Appl (2021). https://doi.org/10.1007/s11042-021-11399-6
+
+
 ```
 ```
 @article{Abdallah_2020, 
